@@ -11,6 +11,7 @@
 # Dupla 3
 - Raimundo e Luiz
 - Vitrine Digital para comércio local - Produto 08
+- https://github.com/raimundolecc-ops/vitrinedigital
 
 # Dupla 4
 - Enzo e Paulo
